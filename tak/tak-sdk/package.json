@@ -1,0 +1,19 @@
+{
+    "name": "tak-sdk",
+    "version": "0.1.0",
+    "description": "TAK — TON Agent Kit · JavaScript SDK client",
+    "main": "src/index.js",
+    "type": "commonjs",
+    "keywords": [
+        "TAK",
+        "TON",
+        "agent",
+        "coordination",
+        "MCP",
+        "SDK"
+    ],
+    "scripts": {
+        "test": "node src/index.js"
+    },
+    "dependencies": {}
+}
